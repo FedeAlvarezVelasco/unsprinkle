@@ -71,6 +71,15 @@ html {
   --color-secondary: hsl(333deg 100% 45%);
   --color-text: var(--color-gray-1000);
   --color-background: white;
+  --weight-thin: 100;
+  --weight-extra-light: 200;
+  --weight-light: 300;
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-semi-bold: 600;
+  --weight-bold: 700;
+  --weight-extra-bold: 800;
+  --weight-black: 900;
 }
 `;
 
